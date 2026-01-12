@@ -21,6 +21,9 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: "Digital Alchemy",
   description: "Optimization. Identity. Intelligence.",
+  icons: {
+    icon: "/logo.ico",
+  },
 };
 
 import { LanguageProvider } from "@/context/LanguageContext";
