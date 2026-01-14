@@ -23,7 +23,7 @@ export default function TechnicalDisclosure() {
           </motion.div>
 
           {/* Main Disclosure Text (Bilingual) */}
-          <div className="space-y-8 font-cormorant text-neutral-300 text-xl md:text-2xl leading-relaxed">
+          <div className="space-y-8 font-cormorant text-neutral-400 text-base md:text-lg leading-loose">
             <motion.p
                 initial={{ opacity: 0 }}
                 whileInView={{ opacity: 1 }}
@@ -47,7 +47,7 @@ export default function TechnicalDisclosure() {
             </motion.p>
             
             <motion.div 
-               className="p-4 border-l-2 border-red-500 bg-red-900/10 text-red-200 text-xs tracking-wider space-y-2"
+               className="p-4 border-l-2 border-red-500 bg-red-900/10 text-red-200 text-xs tracking-wider space-y-2 font-sans"
                initial={{ opacity: 0, x: -20 }}
                whileInView={{ opacity: 1, x: 0 }}
                transition={{ delay: 0.6 }}
