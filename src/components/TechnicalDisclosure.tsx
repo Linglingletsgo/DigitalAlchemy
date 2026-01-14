@@ -23,7 +23,7 @@ export default function TechnicalDisclosure() {
           </motion.div>
 
           {/* Main Disclosure Text (Bilingual) */}
-          <div className="space-y-8 font-sans text-neutral-400 text-base md:text-lg leading-loose">
+          <div className="space-y-8 font-cormorant text-neutral-300 text-xl md:text-2xl leading-relaxed">
             <motion.p
                 initial={{ opacity: 0 }}
                 whileInView={{ opacity: 1 }}
