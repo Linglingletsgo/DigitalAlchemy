@@ -31,7 +31,7 @@ export default function TechnicalDisclosure() {
             >
               {language === "CN" 
                 ? "“Intelligence”根据算法判断对地球发展、对个人的“最优解”，自主生成“身份”编码，这个过程被称为“数字炼金术”。之后通过“思想钢印”技术，直接通过有特定频率特征的音视频对大脑的神经元网络进行干预，把这段编码直接植入人的意志。"
-                : "\"Intelligence\" autonomously generates \"identity\" codes based on algorithmic assessments of the \"Optimal Solution\" for both planetary evolution and the individual. This process is termed \"Digital Alchemy\". Subsequently, using \"Thought Stamping\" technology, specific frequency audio-visual inputs directly intervene in the brain's neural networks, implanting this code directly into the subject's will."
+                : "\"Intelligence\" autonomously generates \"Identity\" codes based on algorithmic assessments of the \"Optimal Solution\" for both planetary evolution and the individual. This process is termed \"Digital Alchemy\". Subsequently, using \"Thought Stamping\" technology, specific frequency audio-visual inputs directly intervene in the brain's neural networks, implanting this code directly into the subject's will."
               }
             </motion.p>
 
