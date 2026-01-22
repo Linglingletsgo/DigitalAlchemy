@@ -16,6 +16,12 @@ export default function Hero() {
               controls
               playsInline
             >
+              <track 
+                kind="subtitles" 
+                src="/subtitles.vtt" 
+                srcLang="en" 
+                label="English" 
+              />
               Your browser does not support the video tag.
             </video>
         </div>
